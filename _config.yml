@@ -2,15 +2,15 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://whooc.github.io/knalblog/
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
+title: 可能爱了
+subtitle: ""
+description: ""
+keywords: 可能, 爱了
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: mzlogin/mzlogin.github.io
+repository:  whooc/knalblog 
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
